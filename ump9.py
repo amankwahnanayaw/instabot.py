@@ -11,7 +11,7 @@ from src.unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
     login="a_braille_",
-    password="L1ster1ne",
+    password="l1ster1nE",
     like_per_day=1500,
     comments_per_day=0,
     tag_list=['follow4follow', 'f4f', 'like4like', 'l4l', 'followforfollow', 'likeforlike'],
