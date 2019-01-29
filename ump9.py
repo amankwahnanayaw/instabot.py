@@ -12,7 +12,7 @@ from src.unfollow_protocol import unfollow_protocol
 bot = InstaBot(
     login="sneaks_gh",
     password="amankwah@1",
-    like_per_day=1000,
+    like_per_day=2000,
     comments_per_day=300,
     tag_list=['ghanapaparazzi', 'weddingsinghana', 'accraghana', 'ghanaian', 'ghanawedding', 'madeinghana', 'ghanagirls', 'ghanabride', 'ghanamusic', 'ghana', 'universityofghana', 'ghanamade', 'ghanabrades', 'ghanajollof', 'ghanagirl', 'idoghana', 'followforfollow', 'follow4follow','followme', 'followers', 'l:216345646'],
     tag_blacklist=['rain', 'thunderstorm'],
